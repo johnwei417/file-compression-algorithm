@@ -10,7 +10,7 @@ compressed_file.zip
 ## Sample output file after decompression
 output_pic.jpg
 
-<h3> Sample output </h3>
+<h3> Sample output in console</h3>
 
 ```
 =====================================
