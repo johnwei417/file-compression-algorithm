@@ -1,4 +1,4 @@
-# File_Compression
+# File Compression
 File Compression &amp; Decompression with Huffman coding algorithm
 
 ## Sample input file
